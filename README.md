@@ -15,7 +15,9 @@ All data shown (attendance counts, weekly grid, percentages) is static/sample da
 
 ## Screenshot
 
-![Attendance History screen](screenshots/attendance_history.jpeg)
+<p align="center">
+  <img src="screenshots/attendance_history.jpeg" alt="Attendance History screen" width="260" />
+</p>
 
 ## Project structure
 
