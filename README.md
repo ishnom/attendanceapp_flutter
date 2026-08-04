@@ -13,6 +13,10 @@ The app opens directly on one screen, `AttendanceHistoryScreen`:
 
 All data shown (attendance counts, weekly grid, percentages) is static/sample data defined in code — there is no backend or persistence layer yet.
 
+## Screenshot
+
+![Attendance History screen](screenshots/attendance_history.jpeg)
+
 ## Project structure
 
 ```
